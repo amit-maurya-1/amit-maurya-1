@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/amit-kumar-maurya-b23281253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-kumar-maurya-b23281253" height="30" width="40" /></a>
 <a href="https://instagram.com/theamitmaurya143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theamitmaurya143" height="30" width="40" /></a>
- <a href="https://www.youtube.com/c/rocksofboys-3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rocksofboys-3" height="30" width="40" /></a>
+ <a href="https://www.youtube.com/@rocksofboys-3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rocksofboys-3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
