@@ -1,5 +1,5 @@
 [![MasterHead](https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif)]
-<h1 align="center">Hi 👋, I'm Amit Maurya</h1>
+<h1 align="center">Hi 👋, I'm Amit kumar Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-maurya-1&label=Profile%20views&color=0e75b6&style=flat" alt="amit-maurya-1" /> </p>
 
