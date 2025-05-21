@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-maurya-1&label=Profile%20views&color=0e75b6&style=flat" alt="amit-maurya-1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit-maurya-1" alt="amit-maurya-1" /></a> </p>
-
 - 🌱 I’m currently learning **HTML,CSS,**
 
 - 💬 Ask me about **CSS**
@@ -28,4 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-maurya-1&show_icons=true&locale=en&layout=compact" alt="amit-maurya-1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amit-maurya-1&show_icons=true&locale=en" alt="amit-maurya-1" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit-maurya-1" alt="amit-maurya-1" /></a> </p>
 
