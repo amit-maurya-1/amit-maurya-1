@@ -30,6 +30,9 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amit-maurya-1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=amit-maurya-1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=amit-maurya-1&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
