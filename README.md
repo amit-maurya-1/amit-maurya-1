@@ -5,13 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-maurya-1&label=Profile%20views&color=0e75b6&style=flat" alt="amit-maurya-1" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,**
-
-- 💬 Ask me about **CSS**
+- 🌱 I’m currently learning **HTML,CSS,Javascript**
 
 - 📫 How to reach me **amitmourya5457@gmail.com**
-
-- ⚡ Fun fact **I make a YouTube videos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
